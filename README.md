@@ -1,4 +1,4 @@
-# AI-Assistent
+sc-1. https://raw.githubusercontent.com/Andrey-bit191/AI-Assistent/420e5c6bf649de49c2570d48109ac57b8bd03a5e/sc-ITDHTBot-%D0%B2-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5.jpg
 ```markdown
 # AI-Ассистент для Компании Digital Technologies
 
