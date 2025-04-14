@@ -2,6 +2,8 @@
 
 ![telegram-bots-to-work](https://github.com/Andrey-bit191/AI-Assistent/blob/main/sc-ITDHTBot-%D0%B2-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5.jpg?raw=true)
 ![telegram-bots-calendar](https://github.com/Andrey-bit191/AI-Assistent/blob/main/sc-ITDHTBot-google-%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C.jpg?raw=true)
+![telegram-bots-client](https://raw.githubusercontent.com/Andrey-bit191/AI-Assistent/35c4a496a9f91609afbce7e691181b795a441a39/sc-ITDHTBot-google-%D0%97%D0%B0%D1%8F%D0%B2%D0%BA%D0%B0-%D0%BE%D1%82-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0.jpg)
+![telegram-bots-client-2](https://raw.githubusercontent.com/Andrey-bit191/AI-Assistent/59632e3aee061d4d99205e9427dbb5c8e7c1cdd7/sc-ITDHTBot-google-%D0%97%D0%B0%D1%8F%D0%B2%D0%BA%D0%B0-%D0%BE%D1%82-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0-2.jpg)
 
 ## Описание проекта
 
